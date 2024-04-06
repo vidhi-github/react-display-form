@@ -1,3 +1,6 @@
+# react-display-form
+The repo consists of code to display a form using React.
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
