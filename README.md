@@ -1,4 +1,4 @@
 # react-display-form
-The repo consists of code to display a form using React.
+The repo consists of code to display a form using React. 
 
 
